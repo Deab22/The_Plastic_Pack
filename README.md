@@ -1,4 +1,4 @@
-# The_Plastic_Pack
+# The Plastic Pack
 A texture pack for Terraria
 
 If you want a block to be added, go to "Issues" and create a request there
